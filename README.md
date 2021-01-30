@@ -1,6 +1,6 @@
 # Robot Educator Follow Black Line
 
-Let a LEGO EV3 Robot Educator follow a line using Pybricks MicroPython v2.0
+Let a LEGO EV3 Robot Educator follow a line using Pybricks MicroPython v2.0\
 Download: https://education.lego.com/en-us/support/mindstorms-ev3/python-for-ev3
 
 # Usage
